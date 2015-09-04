@@ -1,4 +1,4 @@
-# Project: Create an User Authentification with MySQL and ExpressJS, PassportJS  
+## Project: Create an User Authentification with MySQL and ExpressJS, PassportJS  
 
 * Author: Igor Trifunovic  
 * Mail: igor.tri@orange.fr  
